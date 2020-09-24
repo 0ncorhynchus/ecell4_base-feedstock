@@ -1,0 +1,12 @@
+diff --git a/ecell4/core/tests/Halfedge_test.cpp b/ecell4/core/tests/Halfedge_test.cpp
+index b1d1a115..714f8ecf 100644
+--- a/ecell4/core/tests/Halfedge_test.cpp
++++ b/ecell4/core/tests/Halfedge_test.cpp
+@@ -11,6 +11,7 @@
+ #include <ecell4/core/STLFileIO.hpp>
+ #include <ecell4/core/RandomNumberGenerator.hpp>
+ #include <boost/assign.hpp>
++#include <boost/make_shared.hpp>
+ #include <utility>
+ 
+ using ecell4::Real;

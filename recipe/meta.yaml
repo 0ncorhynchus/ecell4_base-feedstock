@@ -11,6 +11,7 @@ source:
     patches:
       - 3713c26ca11e60b1d429a624df26e8277be6f634.patch
       - 0001-require_boost_unit_test_framework.patch
+      - 0002-using_make_shared_with_halfedge_test.patch
 
 build:
   number: 1
